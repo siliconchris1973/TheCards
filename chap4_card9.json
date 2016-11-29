@@ -1,0 +1,21 @@
+{
+	"UUID": "11241BB9-FF51-46B1-8FA4-3AB6E01A90AF",
+	"Chapter": "4",
+	"Card": "9",
+	"Complete": "false",
+	"Asked": "0",
+	"Answered": "0",
+	"CorrectAnswers": "0",
+	"LastAsked": "30.10.2016 18:19:00",
+	"Data": {
+		"Question": "Was kennzeichnet nach ICD-10 die Manie mit psychotischen Symptomen?",
+		"Hint": "Hat was mit Wahn zu tun"
+		"Answer": "Hierbei treten zu dem klinischen Bild der Manie zusätzlich Halluzinationen oder Wahn auf",
+		"Tags": ["Manie", "ICD-10", "Wahn"],
+		"Picture": "wohlbeklopptwa.png",
+		"Links": [
+				  {"Youtube": "https://www.youtube.com/"},
+				  {"Webseite": "http://ihrseidjaalleirre.de"}
+				  ]
+	}
+}
